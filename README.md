@@ -78,4 +78,7 @@ The following syntaxes and functions were demonstrated;
 
 ![](T1STEP8.png)
 
+### 9. Copy of the student_info table;
+- I made a copy of the student_info table and duplicated all the data from the original table into it before altering/deleting any column.
+
 ![](T1STEP7.png)
