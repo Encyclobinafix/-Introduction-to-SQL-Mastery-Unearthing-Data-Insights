@@ -28,7 +28,7 @@ The following syntaxes and functions were demonstrated;
 ### 1. Creating and selecting the database;
 - A database was created and tited it "student_records". I ensured the database created was selected.
 
-![](T1STEP1-2.png)
+![](T1-STEP1-2.png)
 
 ### 2. Creating a table within the database;
 - A table titled "students_info" was created and 5 columns added namely: student_id, gender, name, age, and subject.
@@ -37,12 +37,12 @@ The following syntaxes and functions were demonstrated;
 - The initial constraint specified for the student_id column was (1,1). I wanted to change this to (1001,1) so I dropped the table and commented the code to make it inactive, before re-running the create table syntax.
 - This table is a dimension table.
 
-![](T1STEP3.png)
+![](T1-STEP3.png)
 
 ### 3. Inserting row values;
 - I inserted row values into the columns created to give the table a structure.
 
-![](T1STEP4.png)
+![](T1-STEP4.png)
 
 ### 4. Creating another dimension table;
 - Another table titled "health_records" was created and 5 columns were inserted namely: health_id, blood_group, height, and weight.
@@ -51,12 +51,12 @@ The following syntaxes and functions were demonstrated;
 - I dropped the table and commented the code to make it inactive, before re-running the create table syntax.
 - This table is a dimension table.
 
-![](T1STEP5.png)
+![](T1-STEP5.png)
 
 ### 5. Inserting row values;
 - I inserted row values into the columns created to give the table a structure.
 
-![](T1STEP5-2.png)
+![](T1-STEP5-2.png)
 
 ### 6. Creating a fact table;
 - A fact table titled "performance" was created.
@@ -65,20 +65,20 @@ The following syntaxes and functions were demonstrated;
 - Row values were inserted to the columns. 
 - I selected the table to have a view of what was created.
 
-![](T1STEP6.png)
+![](T1-STEP6.png)
 
 ### 7. Viewing all tables;
 - I selected all 3 tables to have a view of all of them at a glance.
 
-![](T1STEP7.png)
+![](T1-STEP7.png)
 
 ### 8. Adding Constraints; 
 - To prevent the student_ID and subject columns from taking null values, I added constraints.
 - I altered the table and specified the NOT NULL condition for both columns.
 
-![](T1STEP8.png)
+![](T1-STEP8.png)
 
 ### 9. Copy of the student_info table;
 - I made a copy of the student_info table and duplicated all the data from the original table into it before altering/deleting any column.
 
-![](T1STEP7.png)
+![](T1-STEP9.png)
