@@ -82,3 +82,14 @@ The following syntaxes and functions were demonstrated;
 - I made a copy of the student_info table and duplicated all the data from the original table into it before altering/deleting any column.
 
 ![](T1-STEP9.png)
+
+### 10. Dropping a column;
+- The 'Age' Column from the student_info table was deleted.
+
+![](T1-STEP10.png)
+
+## Appraisal;
+
+My SQL journey has been an exciting exploration of the data world. I've acquired a strong foundation in SQL fundamentals, from database design to data retrieval and manipulation. While I've honed my query-writing skills and can extract insights from complex datasets, I recognize there's much more to learn. I'm eager to delve deeper into advanced SQL techniques, optimize performance, and tackle more complex projects. With each new challenge, I aim to enhance my SQL expertise and make more informed, data-driven decisions. The journey has just begun, and I'm committed to continuous improvement in the world of SQL.
+
+THANK YOU!!! 🥇
