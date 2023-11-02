@@ -78,15 +78,20 @@ The following syntaxes and functions were demonstrated;
 
 ![](T1-STEP8.png)
 
-### 9. Copy of the student_info table;
-- I made a copy of the student_info table and duplicated all the data from the original table into it before altering/deleting any column.
+### 9. Renaming columns;
+- The column name "subject" was renamed to "Course" using the EXEC sp_rename syntax as seen in the image below.
 
 ![](T1-STEP9.png)
 
-### 10. Dropping a column;
-- The 'Age' Column from the student_info table was deleted.
+### 10. Copy of the student_info table;
+- I made a copy of the student_info table and duplicated all the data from the original table into it before altering/deleting any column.
 
 ![](T1-STEP10.png)
+
+### 11. Dropping a column;
+- The 'Age' Column from the student_info table was deleted.
+
+![](T1-STEP11.png)
 
 ## Appraisal;
 
