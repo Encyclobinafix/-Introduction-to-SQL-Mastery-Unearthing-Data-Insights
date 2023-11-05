@@ -26,7 +26,7 @@ The following syntaxes and functions were demonstrated;
 ## SQL Fundamentals and Analysis:
 
 ### 1. Creating and selecting the database;
-- A database was created and tited it "student_records". I ensured the database created was selected.
+- A database was created and titled "student_records". I ensured the database created was selected.
 
 ![](T1-STEP1-2.png)
 
